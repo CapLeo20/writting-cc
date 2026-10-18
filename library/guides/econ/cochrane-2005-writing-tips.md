@@ -9,7 +9,7 @@ scenarios: [2]
 sections: [whole, abstract, intro, results, sentence]
 fields: [general, finance]
 source: https://www.fma.org/assets/docs/membercontent/writing_cochrane.pdf
-verified: 摘要
+verified: 原文
 added: 2026-10-18
 status: 初稿
 ---
@@ -43,4 +43,4 @@ status: 初稿
 
 - FMA 版 PDF：https://www.fma.org/assets/docs/membercontent/writing_cochrane.pdf
 - 中文译本《经济学博士生论文写作指南》：https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda7469be86af2835789397/1591374954020/CochranePhDwritingonline.pdf
-- 本卡片内容据多份检索摘要整理，尚未逐条对照原文。
+- 2026-10-18 已对照 FMA 版原文核对：核心贡献一段话、摘要 100–150 词、"清嗓子"、引言 3 页上限、不写路线图段。

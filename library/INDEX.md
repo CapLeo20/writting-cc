@@ -22,12 +22,12 @@
 | [How we built our multi-agent research system](guides/agents/anthropic-multi-agent-research.md) | Anthropic | 2025 | en | agent 交接 | 原文 | 初稿 |
 | [Prompting best practices（格式与长度部分）/ Prompting Claude Opus 5](guides/agents/anthropic-prompting-format-length.md) | Anthropic | 2026 | en | 日常回复、agent 交接 | 原文 | 初稿 |
 | [Claude Code 官方文档：Best practices / Memory / Output styles / Skills](guides/agents/claude-code-best-practices.md) | Anthropic | 2026 | en | 日常回复、agent 交接 | 原文 | 初稿 |
-| [Writing Tips for Ph.D. Students](guides/econ/cochrane-2005-writing-tips.md) | John H. Cochrane | 2005 | en | 论文写作 | 摘要 | 初稿 |
+| [Writing Tips for Ph.D. Students](guides/econ/cochrane-2005-writing-tips.md) | John H. Cochrane | 2005 | en | 论文写作 | 原文 | 初稿 |
 | [《经济学（季刊）》论文可读性改进建议](guides/econ/cqe-readability-guide.md) | 《经济学（季刊）》编辑部（北京大学国家发展研究院） |  | zh | 论文写作 | 摘要 | 待补 |
 | [How to Write the Introduction of Your Development Economics Paper](guides/econ/evans-2020-intro-dev-econ.md) | David K. Evans | 2020 | en | 论文写作 | 摘要 | 初稿 |
 | [Writing Matters](guides/general/feld-2024-writing-matters.md) | Jan Feld, Corinna Lines, Libby Ross | 2024 | en | 论文写作 | 摘要 | 初稿 |
 | [The Ten Most Important Rules of Writing Your Job Market Paper](guides/econ/goldin-katz-jmp-ten-rules.md) | Claudia Goldin, Lawrence F. Katz |  | en | 论文写作 | 待核实 | 待补 |
-| [The Introduction Formula](guides/econ/head-introduction-formula.md) | Keith Head |  | en | 论文写作 | 摘要 | 初稿 |
+| [The Introduction Formula](guides/econ/head-introduction-formula.md) | Keith Head |  | en | 论文写作 | 原文 | 初稿 |
 | [Humanizer-zh](guides/zh/humanizer-zh.md) | op7418（据 blader/humanizer 改编） | 2026 | zh | 日常回复、论文写作 | 原文 | 初稿 |
 | [Some Research and Writing Tips Part 2: Writing](guides/finance/jacobsen-2015-writing.md) | Ben Jacobsen | 2015 | en | 论文写作 | 摘要 | 初稿 |
 | [How I Work](guides/econ/krugman-1993-how-i-work.md) | Paul Krugman | 1993 | en | 论文写作 | 摘要 | 初稿 |
@@ -37,7 +37,7 @@
 | [中文技术文档的写作规范](guides/zh/ruanyf-document-style-guide.md) | 阮一峰 |  | zh | 日常回复、agent 交接 | 原文 | 初稿 |
 | [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](guides/general/schimel-2012-writing-science.md) | Joshua Schimel | 2012 | en | 论文写作 | 摘要 | 待补 |
 | [Four Steps to an Applied Micro Paper](guides/econ/shapiro-2022-four-steps.md) | Jesse M. Shapiro | 2022 | en | 论文写作 | 摘要 | 初稿 |
-| [Journal of Financial Economics Tips for Authors](guides/finance/stulz-jfe-tips-for-authors.md) | René M. Stulz |  | en | 日常回复、论文写作 | 摘要 | 初稿 |
+| [Journal of Financial Economics Tips for Authors](guides/finance/stulz-jfe-tips-for-authors.md) | René M. Stulz |  | en | 日常回复、论文写作 | 原文 | 初稿 |
 | [How to Build an Economic Model in Your Spare Time](guides/econ/varian-1997-build-model.md) | Hal R. Varian | 1997 | en | 论文写作 | 待核实 | 待补 |
 | [The Economist's Craft: An Introduction to Research, Publishing, and Professional Development](guides/finance/weisbach-2021-economists-craft.md) | Michael S. Weisbach | 2021 | en | 论文写作 | 摘要 | 待补 |
 | [Style: Lessons in Clarity and Grace](guides/general/williams-style-clarity-grace.md) | Joseph M. Williams, Joseph Bizup |  | en | 日常回复、论文写作 | 摘要 | 初稿 |

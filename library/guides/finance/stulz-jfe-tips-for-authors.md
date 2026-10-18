@@ -9,7 +9,7 @@ scenarios: [1, 2]
 sections: [abstract, intro, conclusion, lit]
 fields: [finance]
 source: https://www.wu.ac.at/fileadmin/wu/d/i/ifr/Stulz-Tips_for_authors.pdf
-verified: 摘要
+verified: 原文
 added: 2026-10-18
 status: 初稿
 ---
@@ -33,5 +33,5 @@ status: 初稿
 
 ## 出处
 
-- PDF：https://www.wu.ac.at/fileadmin/wu/d/i/ifr/Stulz-Tips_for_authors.pdf （内容据检索摘要）
+- PDF：https://www.wu.ac.at/fileadmin/wu/d/i/ifr/Stulz-Tips_for_authors.pdf （2026-10-18 已读原文，"MBA 班"一句见第 1 页）
 - Bill Schwert 维护的 JFE 投稿建议页：https://www.billschwert.com/jfe/tips.htm （待读）
