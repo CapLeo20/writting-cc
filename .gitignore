@@ -1,0 +1,7 @@
+# 本地原文和 PDF，不提交（版权）
+_private/
+
+# 系统和编辑器文件
+.DS_Store
+*.swp
+__pycache__/
