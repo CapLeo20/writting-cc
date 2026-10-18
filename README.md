@@ -10,7 +10,7 @@
 
 | 场景 | 读者 | 目标 | 当前可用 |
 | --- | --- | --- | --- |
-| 一、日常阅读学习时的回复 | 我自己 | 清楚、少格式、用常用术语 | 输出风格 `econ-plain-zh`（v0.1） |
+| 一、日常阅读学习时的回复 | 我自己 | 易读、结论先行、快速抓住重点（只管表述，不固定内容） | 输出风格 `econ-plain-zh`（v0.2）；网页版文字 `web/claude-ai-instructions.md` |
 | 二、论文学术写作 | 编辑、审稿人 | 准确之外有经济学叙事 | 素材库积累中 |
 | 三、agent 之间的对话与交接 | 另一个 agent 或新会话 | 准确、可核对、省 token | 模板见 `library/patterns/agent-brief-handoff.md` |
 
@@ -48,7 +48,10 @@ writting-cc/
 ├── glossary/                 术语表（范里安、罗默、伍德里奇译名）
 ├── templates/                新建卡片时复制的模板
 ├── .claude/
-│   └── output-styles/        场景一：econ-plain-zh.md
+│   ├── output-styles/        场景一：econ-plain-zh.md
+│   └── settings.json         在本仓库默认启用 econ-plain-zh
+├── web/                      场景一：粘贴到 claude.ai 的文字
+├── evals/scenario1/          场景一评测：题目、运行脚本、计数脚本、结果
 ├── research/                 调研报告
 ├── scripts/build_index.py    校验卡片、生成索引
 └── _private/                 本地 PDF（不提交）
@@ -81,16 +84,20 @@ Claude 会按 [CLAUDE.md](CLAUDE.md) 里的流程做。手动添加的步骤：
 3. 运行 `python3 scripts/build_index.py` 校验并更新索引；
 4. 提交。
 
-## 怎么使用场景一的输出风格
+## 怎么使用场景一的规则
 
-在本仓库里打开 Claude Code，输入 `/output-style econ-plain-zh`。
+规则只管表述方式（结论先行、按篇幅选形态、格式按需、短句、重点可见），不规定回答内容。依据见 `library/patterns/reply-presentation.md`。
 
-想在所有项目里使用，把文件复制到用户目录：
+| 在哪里用 | 怎么做 |
+| --- | --- |
+| claude.ai 网页版 | 把 `web/claude-ai-instructions.md` 里"粘贴内容"一节复制到 设置 → Instructions for Claude |
+| 本仓库的 Claude Code | 已通过 `.claude/settings.json` 默认启用，不用操作 |
+| 其他仓库的 Claude Code | 把 `.claude/output-styles/econ-plain-zh.md` 和 `.claude/settings.json` 复制到那个仓库的 `.claude/` 下并提交 |
+| 本机的 Claude Code（所有项目） | 复制到 `~/.claude/output-styles/`，再运行 `/output-style econ-plain-zh` |
 
-```bash
-mkdir -p ~/.claude/output-styles
-cp .claude/output-styles/econ-plain-zh.md ~/.claude/output-styles/
-```
+云端会话不会读取你本机的 `~/.claude/`，所以云端要用"其他仓库"那一行的做法。
+
+改规则后可以重跑评测：`bash evals/scenario1/run.sh`，再用 `python3 evals/scenario1/lint_reply.py evals/scenario1/out/*.md` 统计。
 
 ## 路线图
 
@@ -99,6 +106,7 @@ cp .claude/output-styles/econ-plain-zh.md ~/.claude/output-styles/
 - [x] 搭建素材库结构、模板和索引脚本
 - [x] 术语表 v0.1
 - [x] 场景一输出风格 v0.1
+- [x] 场景一 v0.2：只管表述；Claude Code 版和网页版；评测工具
 - [ ] 拆解目标期刊范文（每刊 3–5 篇）
 - [ ] 核对术语表与三本教材中译本
 - [ ] 场景二 skill：`econ-write-zh`（以 hanlulong/econ-writing-skill 为骨架，按中文期刊改写）

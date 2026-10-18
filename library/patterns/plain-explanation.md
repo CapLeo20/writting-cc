@@ -30,7 +30,7 @@ status: 初稿
 
 ## 应用
 
-- 已写成输出风格：`.claude/output-styles/econ-plain-zh.md`。
+- v0.1 输出风格曾整体采用本卡片。2026-10-18 用户决定输出风格只管表述、不固定内容，第 2、3 条（讲论文、讲方法的内容顺序）不再写进输出风格，只作为需要时的参考。表述规则见 pattern-reply-presentation。
 
 ## 依据
 

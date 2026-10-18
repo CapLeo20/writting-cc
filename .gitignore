@@ -5,3 +5,6 @@ _private/
 .DS_Store
 *.swp
 __pycache__/
+
+# 评测的原始输出，不提交
+evals/*/out/

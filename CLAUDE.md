@@ -31,9 +31,11 @@
 - 按 `library/STYLE-DIMENSIONS.md` 的维度观察，重点是引言的逐段"动作序列"。
 - 只写从原文看得到的东西。观察汇总到对应的 scholar 和 journal 卡片时，注明来自哪张 paper 卡片。
 
-## 修改应用层（.claude/）
+## 修改应用层（.claude/ 和 web/）
 
-- 先改素材卡片（通常是 pattern 卡片），再把变化同步到 `.claude/` 下的文件，并在文件开头的注释里列出依据的卡片 id。
+- 先改素材卡片（通常是 pattern 卡片），再把变化同步到 `.claude/` 和 `web/` 下的文件，并在文件开头的注释里列出依据的卡片 id。
+- 场景一的规则只管表述方式，不规定回答内容（用户 2026-10-18 的要求）。依据卡片是 `library/patterns/reply-presentation.md`；Claude Code 版和网页版要同步修改。
+- 改了场景一的规则后，运行 `bash evals/scenario1/run.sh` 重测，把结果更新到 `evals/scenario1/RESULTS.md`。
 - 输出风格要短；skill 的 SKILL.md 控制在 500 行以内，细节放进同目录的参考文件。
 - 用正面的说法写规则（"用段落写"），少用禁止句。
 
