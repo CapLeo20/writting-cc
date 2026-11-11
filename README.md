@@ -14,7 +14,7 @@
 | 二、论文学术写作 | 编辑、审稿人 | 准确之外有经济学叙事 | 素材库积累中 |
 | 三、agent 之间的对话与交接 | 另一个 agent 或新会话 | 准确、可核对、省 token | 模板见 `library/patterns/agent-brief-handoff.md` |
 
-目标期刊：《经济研究》《经济学动态》《数量经济技术经济研究》《财经研究》；International Review of Economics & Finance、Economic Analysis and Policy。
+目标期刊：《经济研究》《经济学动态》《数量经济技术经济研究》《财经研究》；International Review of Economics & Finance、Economic Analysis and Policy、International Review of Financial Analysis、Emerging Markets Finance and Trade、Applied Economics。
 
 ## 三层结构
 
@@ -107,6 +107,7 @@ Claude 会按 [CLAUDE.md](CLAUDE.md) 里的流程做。手动添加的步骤：
 - [x] 术语表 v0.1
 - [x] 场景一输出风格 v0.1
 - [x] 场景一 v0.2：只管表述；Claude Code 版和网页版；评测工具
+- [x] 调研写作模型与方法（`research/03`）、期刊与学者的写作要求（`research/04`）
 - [ ] 拆解目标期刊范文（每刊 3–5 篇）
 - [ ] 核对术语表与三本教材中译本
 - [ ] 场景二 skill：`econ-write-zh`（以 hanlulong/econ-writing-skill 为骨架，按中文期刊改写）

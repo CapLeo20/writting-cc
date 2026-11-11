@@ -17,6 +17,7 @@
 | Writing Papers: A Checklist | Michael Kremer | 诺奖得主的自查清单 | 未收录 |
 | How to Write a (Low-Brow) Theory Paper | Edward Glaeser | 理论部分"从一个例子开始" | 未收录 |
 | The Science of Scientific Writing（American Scientist, 1990） | Gopen & Swan | 理工科读者熟悉的经典，适合过渡 | 未收录 |
+| Learnings From 1,000 Rejections（Financial Management, 2025） | Alex Edmans | 金融刊前编辑的退稿原因分类；"表述"一节待读原文 | 已收录（摘要），待补 |
 
 ## 其次
 
@@ -25,7 +26,7 @@
 | Economical Writing（35 条规则） | McCloskey | 已有卡片，规则待逐条整理 | 待补 |
 | How to Give an Applied Micro Talk | Jesse Shapiro | 报告技巧 | 未收录 |
 | An Economist's Guide to Visualizing Data（JEP, 2014） | Jonathan Schwabish | 图表 | 未收录 |
-| Good Writing Matters in Economics! | Claudia Sahm | 审过 40 多篇宏观求职论文后的建议 | 未收录 |
+| Good Writing Matters in Economics! | Claudia Sahm | 审过 40 多篇宏观求职论文后的建议 | 已收录（摘要） |
 | Code and Data for the Social Sciences | Gentzkow & Shapiro | 场景三相关：研究项目的代码和数据组织 | 未收录 |
 | How to Get Started on Research in Economics | Jörn-Steffen Pischke | 选题 | 未收录 |
 | JFE tips 页面 | Bill Schwert | 金融 | 未收录 |
