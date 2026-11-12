@@ -6,8 +6,8 @@ author: 本仓库整理
 year:
 lang: zh
 scenarios: [1, 2]
-sections: [sentence, intro, conclusion]
-source: guide-humanizer-zh, guide-yu-guangzhong-europeanized-chinese, guide-ruanyf-document-style-guide
+sections: [sentence, title, abstract, intro, conclusion]
+source: guide-humanizer-zh, guide-yu-guangzhong-europeanized-chinese, guide-ruanyf-document-style-guide, guide-cjyj-abstract-referee-comments, guide-liu-xichuan-knowledge-increment
 verified: 判断
 added: 2026-10-18
 status: 初稿
@@ -55,8 +55,13 @@ status: 初稿
 | 泛泛政策建议 | "应加强监管、完善制度、推进改革" | 谁、在哪个环节、做什么，且能从本文证据推出 |
 | 显著当量级 | "具有显著的正向促进作用" | 报告量级，见 pattern-reporting-magnitude |
 | 首次 | "本文首次……" | 除非确实核实过，改成和具体文献对比 |
+| 自我评价 | "系统揭示""丰富和深化"（摘要里） | 删掉，只留实质结论和方法 |
+| 空白式开头 | "鲜有学者关注……" | 先写空白背后的现实关切 |
+| 机制大词 | "外部压力机制和内部治理机制" | 写到具体渠道，如"增加媒体报道、投资者实地调研" |
+| 只说有影响 | "使不同企业的产能利用率产生分化" | 说清方向：谁升、谁降 |
+| 标题式疑问 | "×××对×××的影响研究" | 写成能检验的疑问，或像《经济学（季刊）》建议的那样让题目反映结论 |
 
-C 组参考了 Awesome-Journal-Skills 的 er-style 黑名单（未经本仓库核实）。
+C 组前五行参考了 Awesome-Journal-Skills 的 er-style 黑名单（未经本仓库核实）。"自我评价"到"只说有影响"四行来自《财经研究》公众号转述的审稿意见（guide-cjyj-abstract-referee-comments）；"标题式疑问"来自 guide-liu-xichuan-knowledge-increment。
 
 ## 学术文体里可以保留的
 
@@ -65,3 +70,4 @@ Humanizer-zh 明确说：学术文本里被动句、四字格、名词化表达�
 ## 依据
 
 - guide-humanizer-zh、guide-yu-guangzhong-europeanized-chinese、guide-ruanyf-document-style-guide
+- C 组新增行：guide-cjyj-abstract-referee-comments、guide-liu-xichuan-knowledge-increment
