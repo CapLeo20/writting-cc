@@ -6,7 +6,7 @@
 
 | 来源 | 作者 | 为什么优先 | 状态 |
 | --- | --- | --- | --- |
-| Writing Tips for Ph.D. Students（中文译本） | Cochrane | 已有卡片，需对照原文核实 | 待核实 |
+| Writing Tips for Ph.D. Students（中文译本） | Cochrane | 2026-11-12 读了计量经济圈转载的全文译本，要点已补进 guide-cochrane-2005-writing-tips；译本出处（厦门大学《经济资料译丛》）期号待核 | 已收录 |
 | The Introduction Formula | Keith Head | 已有卡片，需对照原文核实 | 待核实 |
 | Four Steps to an Applied Micro Paper | Jesse Shapiro | 已有卡片，需读附录（研究问题、引言结构） | 待核实 |
 | 《经济学（季刊）》论文可读性改进建议 | 编辑部 | 中文期刊官方建议，只读到前几条 | 待补 |
@@ -39,3 +39,20 @@
 | --- | --- | --- |
 | 江艇（2022）《因果推断经验研究中的中介效应与调节效应》（《中国工业经济》） | 机制分析写法的重要参考，中文期刊审稿常引用 | 未收录 |
 | 国内知名经济学者公开的写作讲座、访谈 | 公开文本较少，遇到就收 | 待补 |
+| 刘西川《以知识增量为目标的经管类学位论文写作》 | 公众号全文，用户上传 | 已收录（guide-liu-xichuan-knowledge-increment） |
+| 刘西川（推断）《研究生论文构思指导：题目+摘要+关键词+提纲+参考文献》 | 五要素提纲法，用户上传 | 已收录（guide-liu-xichuan-five-element-outline） |
+| 刘西川《实证论文写作八讲》第 8 讲 | 只读到内容提要和提纲，PPT 图片待补 | 已收录（guide-liu-xichuan-empirical-writing-eight-lectures） |
+| 刘西川《实证论文写作八讲》第 1–7 讲及原书 | 原书出版信息待核 | 未收录 |
+| 陆铭《以审稿人的身份谈论文写作和审稿》（原载《经济学家茶座》） | 审稿人视角，用户上传 | 已收录（guide-lu-ming-referee-report） |
+| 陆铭《给搞实证研究学者的经验建议》 | 上一篇转载页里的链接 | 未收录 |
+| 《财经研究》公众号《经济学论文摘要怎么写？来自真实审稿意见的建议》 | 目标刊，用户上传 | 已收录（guide-cjyj-abstract-referee-comments） |
+| 皮建才《经济学论文写作"五部曲"》（《经济学家茶座》2012 年第 1 期） | 用户上传 | 已收录（guide-pi-jiancai-2012-five-steps） |
+| 黄炜《经济学论文写作的三要领》（香樟青苗计划讲座纪要，2026-07-23） | 学员纪要，用户上传 | 已收录（guide-huang-wei-2026-three-essentials） |
+| 陈强《计量经济学及Stata应用》（2015）第 15 章 | 公众号节选，用户上传 | 已收录（guide-chen-qiang-2015-empirical-research） |
+| Amy Finkelstein 实证论文写作建议（计量经济圈转载） | 正文是图片，没读到 | 占位卡片（guide-finkelstein-empirical-paper-advice），待补 |
+| 何帆《如何发表经济学论文》（《经济学家茶座》2001 年总第 9 辑） | 皮建才文中提到 | 未收录 |
+| 冯伟《拍电影与写论文》（《经济学家茶座》2011 年总第 52 辑） | 皮建才文中提到 | 未收录 |
+| 姚洋《经济学高质量论文写作"三步曲"》（讲座文字稿，计量经济圈转载） | 用户上传 | 已收录（guide-yao-yang-research-three-steps） |
+| 陆铭《如何把实证研究进行到底》 | 计量经济圈文末推荐链接里看到 | 未收录 |
+| 计量经济圈转载的"《经济研究》规定论文写作规范与编辑标准" | 文末推荐链接里看到；和上面优先表里的《经济研究》写作与投稿规范可能是同一份，待核 | 未收录 |
+| Goldin & Katz 十条规则的中文版（计量经济圈转载） | 文末推荐链接里看到；可以补 guide-goldin-katz-jmp-ten-rules 这张空卡片 | 未收录 |

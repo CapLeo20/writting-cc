@@ -7,7 +7,7 @@ year:
 lang: zh
 scenarios: [2]
 sections: [intro, lit, background, hypothesis]
-source: guide-head-introduction-formula, guide-evans-2020-intro-dev-econ, guide-cochrane-2005-writing-tips, guide-cqe-readability-guide, journal-jjyj
+source: guide-head-introduction-formula, guide-evans-2020-intro-dev-econ, guide-cochrane-2005-writing-tips, guide-cqe-readability-guide, journal-jjyj, guide-liu-xichuan-knowledge-increment, guide-chen-qiang-2015-empirical-research
 verified: 判断
 added: 2026-10-18
 status: 初稿
@@ -42,6 +42,8 @@ status: 初稿
 2. **制度背景单列**。这是中文论文讲故事的好位置：中国特有的制度安排（试点、行政边界、渐进改革）往往就是识别的来源。
 3. **研究假说单列**，常写成"假说 1、假说 2"。英文顶刊较少用这种格式。
 
+刘西川把这套结构解释成一条证伪链条：文献综述测出旧理论的边界，理论分析提出比旧理论更高明的假说，后面各节检验假说并和旧理论对话（guide-liu-xichuan-knowledge-increment）。按这个思路，文献综述的最后一段应该自然引出假说，而不是和假说节各写各的。【判断】
+
 ## 中文稿的引言怎么写
 
 即使后面单列文献综述，引言里仍然要有：
@@ -53,10 +55,12 @@ status: 初稿
 
 《经济学（季刊）》建议：题目反映结论，主标题体现一般性的经济学问题；据摘要，不建议直接写"边际贡献"四个字，而是把贡献说具体。
 
+陈强把引言分成两种套路：传统套路先回顾文献、指出不足，再引出本文；现代套路先讲本文的方法和结论，再回头讲和文献的关系，后者越来越流行（guide-chen-qiang-2015-empirical-research）。这和上面"第一段就出现本文的问题"一致。路标段是否保留，陈强说通常保留，Cochrane 说可以不写，按目标刊近期范文决定。
+
 ## 待补
 
 - 拆解目标刊范文后，补充各刊引言的实际段落数和动作序列。
 
 ## 依据
 
-- guide-head-introduction-formula、guide-evans-2020-intro-dev-econ、guide-cochrane-2005-writing-tips、guide-cqe-readability-guide、journal-jjyj
+- guide-head-introduction-formula、guide-evans-2020-intro-dev-econ、guide-cochrane-2005-writing-tips、guide-cqe-readability-guide、journal-jjyj、guide-liu-xichuan-knowledge-increment、guide-chen-qiang-2015-empirical-research
