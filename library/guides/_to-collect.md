@@ -6,7 +6,7 @@
 
 | 来源 | 作者 | 为什么优先 | 状态 |
 | --- | --- | --- | --- |
-| Writing Tips for Ph.D. Students（中文译本） | Cochrane | 已有卡片，需对照原文核实 | 待核实 |
+| Writing Tips for Ph.D. Students（中文译本） | Cochrane | 2026-11-12 读了计量经济圈转载的全文译本，要点已补进 guide-cochrane-2005-writing-tips；译本出处（厦门大学《经济资料译丛》）期号待核 | 已收录 |
 | The Introduction Formula | Keith Head | 已有卡片，需对照原文核实 | 待核实 |
 | Four Steps to an Applied Micro Paper | Jesse Shapiro | 已有卡片，需读附录（研究问题、引言结构） | 待核实 |
 | 《经济学（季刊）》论文可读性改进建议 | 编辑部 | 中文期刊官方建议，只读到前几条 | 待补 |
@@ -46,3 +46,9 @@
 | 陆铭《以审稿人的身份谈论文写作和审稿》（原载《经济学家茶座》） | 审稿人视角，用户上传 | 已收录（guide-lu-ming-referee-report） |
 | 陆铭《给搞实证研究学者的经验建议》 | 上一篇转载页里的链接 | 未收录 |
 | 《财经研究》公众号《经济学论文摘要怎么写？来自真实审稿意见的建议》 | 目标刊，用户上传 | 已收录（guide-cjyj-abstract-referee-comments） |
+| 皮建才《经济学论文写作"五部曲"》（《经济学家茶座》2012 年第 1 期） | 用户上传 | 已收录（guide-pi-jiancai-2012-five-steps） |
+| 黄炜《经济学论文写作的三要领》（香樟青苗计划讲座纪要，2026-07-23） | 学员纪要，用户上传 | 已收录（guide-huang-wei-2026-three-essentials） |
+| 陈强《计量经济学及Stata应用》（2015）第 15 章 | 公众号节选，用户上传 | 已收录（guide-chen-qiang-2015-empirical-research） |
+| Amy Finkelstein 实证论文写作建议（计量经济圈转载） | 正文是图片，没读到 | 占位卡片（guide-finkelstein-empirical-paper-advice），待补 |
+| 何帆《如何发表经济学论文》（《经济学家茶座》2001 年总第 9 辑） | 皮建才文中提到 | 未收录 |
+| 冯伟《拍电影与写论文》（《经济学家茶座》2011 年总第 52 辑） | 皮建才文中提到 | 未收录 |

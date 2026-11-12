@@ -7,7 +7,7 @@ year:
 lang: zh
 scenarios: [2]
 sections: [intro, lit, background, hypothesis]
-source: guide-head-introduction-formula, guide-evans-2020-intro-dev-econ, guide-cochrane-2005-writing-tips, guide-cqe-readability-guide, journal-jjyj, guide-liu-xichuan-knowledge-increment
+source: guide-head-introduction-formula, guide-evans-2020-intro-dev-econ, guide-cochrane-2005-writing-tips, guide-cqe-readability-guide, journal-jjyj, guide-liu-xichuan-knowledge-increment, guide-chen-qiang-2015-empirical-research
 verified: 判断
 added: 2026-10-18
 status: 初稿
@@ -55,10 +55,12 @@ status: 初稿
 
 《经济学（季刊）》建议：题目反映结论，主标题体现一般性的经济学问题；据摘要，不建议直接写"边际贡献"四个字，而是把贡献说具体。
 
+陈强把引言分成两种套路：传统套路先回顾文献、指出不足，再引出本文；现代套路先讲本文的方法和结论，再回头讲和文献的关系，后者越来越流行（guide-chen-qiang-2015-empirical-research）。这和上面"第一段就出现本文的问题"一致。路标段是否保留，陈强说通常保留，Cochrane 说可以不写，按目标刊近期范文决定。
+
 ## 待补
 
 - 拆解目标刊范文后，补充各刊引言的实际段落数和动作序列。
 
 ## 依据
 
-- guide-head-introduction-formula、guide-evans-2020-intro-dev-econ、guide-cochrane-2005-writing-tips、guide-cqe-readability-guide、journal-jjyj、guide-liu-xichuan-knowledge-increment
+- guide-head-introduction-formula、guide-evans-2020-intro-dev-econ、guide-cochrane-2005-writing-tips、guide-cqe-readability-guide、journal-jjyj、guide-liu-xichuan-knowledge-increment、guide-chen-qiang-2015-empirical-research

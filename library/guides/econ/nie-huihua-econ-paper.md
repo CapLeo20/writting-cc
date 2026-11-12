@@ -31,3 +31,4 @@ status: 待补
 ## 出处
 
 - 个人网站：http://www.niehuihua.com/a/zuopin/xueshulunwen/2016/0602/321.html （2019 年经管之家有转载）
+- 首发可能更早：皮建才（2012）称聂辉华《如何创作经济学论文》发表于《经济学家茶座》2003 年总第 14 辑（见 guide-pi-jiancai-2012-five-steps）。这是转引，待核；如果属实，`year` 应改为 2003，2016 是个人网站的发布时间。
