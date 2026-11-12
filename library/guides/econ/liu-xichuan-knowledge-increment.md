@@ -66,4 +66,4 @@ status: 初稿
 ## 出处
 
 - 微信公众号文章，标题同 title。原始链接、发布日期和作者单位待补。
-- 文中提到的"五要素提纲法"见 guide-liu-xichuan-five-element-outline；同一作者的讲义见 guide-liu-xichuan-empirical-writing-eight-lectures。
+- 文中提到的"五要素提纲法"见 guide-liu-xichuan-five-element-outline；同一作者的讲义见 guide-liu-xichuan-empirical-writing-eight-lectures；作者档案见 scholar-liu-xichuan。
